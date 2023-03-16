@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFC155&fontColor=FFFFFF&height=180&section=header&text=Suhyun%20Github✨&fontSize=60&&animation=twinkling)
-</div>
 <br>
 
 <div align=center>
