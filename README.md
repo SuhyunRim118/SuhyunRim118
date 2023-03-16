@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFAF33&fontColor=FFFFFF&height=180&section=header&text=Suhyun%20Github&fontSize=70&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFAF33&fontColor=FFFFFF&height=180&section=header&text=✧%10Suhyun%20Github%10✧&fontSize=70&&animation=twinkling)
 
-<!--
+<!--(๑•̀ㅂ•́)و✧
 **SuhyunRim118/SuhyunRim118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
