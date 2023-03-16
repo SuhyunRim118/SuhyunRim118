@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFAF33&fontColor=FFFFFF&height=180&section=header&text=Suhyun%20Github:sparkles:&fontSize=70&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFAF33&fontColor=FFFFFF&height=180&section=header&text=:sparkles:Suhyun%20Github&fontSize=70&&animation=twinkling)
 
 <!--
 **SuhyunRim118/SuhyunRim118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
