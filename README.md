@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFC155&fontColor=FFFFFF&height=180&section=header&text=Suhyun%20Github%20💡&fontSize=60&&animation=twinkling)
 <br>
-
+<hr>
+<br>
 <div align=center>
 	<h3>🎓 Handong Global University 🎓</h3>
 </div>
@@ -49,7 +50,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<div align="center">
+<div align=center>
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india)
+	
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&theme=flag-india)
 </div>
