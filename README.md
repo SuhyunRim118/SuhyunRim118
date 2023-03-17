@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" style="display: flex; flex-direction: row;">
-	<img style="height: auto; width: 53%;" class="img" src="https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india" />
+	<img style="height: auto; width: 52%;" class="img" src="https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india" />
 	<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&theme=flag-india&layout=compact" />
 </div>
