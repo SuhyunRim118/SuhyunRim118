@@ -49,4 +49,5 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=radical) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118)](https://github.com/SuhyunRim118/github-readme-stats)
