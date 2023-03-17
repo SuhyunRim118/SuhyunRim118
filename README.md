@@ -53,3 +53,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india&align=center)
 	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&theme=flag-india=align=center)	
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhyunRim118&count_bg=%23FFC155&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
