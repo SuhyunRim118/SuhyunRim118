@@ -59,13 +59,13 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: row;">
 	<img class="img" src="https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india" />
-	<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&layout=compact&theme=flag-india" />
+	<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&theme=flag-india&layout=compact" />
 </div>
 
 <!--
 <div align=center>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india&align=center)
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india)
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&layout=compact&theme=flag-india=align=center)	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&layout=compact&theme=flag-india)
 -->
