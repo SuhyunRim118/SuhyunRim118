@@ -53,11 +53,12 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 </div>
 <br>
+
 <div align=center>
 	<p>📊 Github Stats 📊</p>
 </div>
 
-<div style="display: flex; flex-direction: row;">
+<div align="center;" style="display: flex; flex-direction: row;">
 	<img class="img" src="https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india" />
 	<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&theme=flag-india&layout=compact" />
 </div>
