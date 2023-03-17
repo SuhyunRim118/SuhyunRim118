@@ -51,10 +51,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-	<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india)
-	
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&theme=flag-india)
-	-->
+
 	
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhyunRim118&count_bg=%23FFC155&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 </div>
