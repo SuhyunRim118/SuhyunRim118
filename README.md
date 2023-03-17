@@ -50,4 +50,8 @@ Here are some ideas to get you started:
 <br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=radical) -->
+
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118)](https://github.com/SuhyunRim118/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118)](https://github.com/SuhyunRim118/github-readme-stats)
+</div>
