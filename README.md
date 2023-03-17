@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFC155&fontColor=FFFFFF&height=180&section=header&text=Suhyun%20Github%20💡&fontSize=60&&animation=twinkling)
 
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhyunRim118&count_bg=%23FFC155&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhyunRim118&count_bg=%23FFC155&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <hr>
@@ -53,7 +53,13 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 </div>
 <br>
+<div align=center>
+	<p>📊 Github Stats 📊</p>
+</div>
+<div align=center>
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india&align=center)
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyunRim118&show_icons=true&theme=flag-india&align=center)
-	
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunRim118&theme=flag-india=align=center)	
+-->
