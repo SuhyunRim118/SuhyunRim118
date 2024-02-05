@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 <div align=center>
 	<h3>✌️ About Me ✌️</h3>
-	<h5>Graduated Handong Global University with a degree in Computer Science</h5>
+	<h4>Graduated Handong Global University with a degree in Computer Science</h4>
 </div>
 <br>
 
-<h3>💻 Experiences 💻<h3>
-
+## 💻 Experiences 💻
+	
 |**Period**|**Task**|**Detail**|**Organization**|
 |:---:|:---:|:---:|:---:|
 |2022.01.03~2022.01.28|웹서비스 프로젝트 (Spring)|스프링 프레임워크를 활용한 웹 사이트 구현 : 마켓컬리 미러링|한동대 SW중심대학|
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 |2022.07~2023.06|캡스톤 디자인|PilotNet을 활용한 자율주행 연구|한동대 CGV LAB|
 |2023.08.08~2024.01.25|KT AIVLE SCHOOL 4기|AI 개발자 트랙 수료|KT|
 |2024.01.30~2024.02.01|빅데이터 AWS 캠프|Cloud 기반 AI 기술 활용, 교육 및 해커톤 진행|경기과기대 빅데이터혁신융합대학산업단|
- 
+
 <br>
 
 <div align=center>
