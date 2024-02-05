@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<div align=center>
 	<h3>💻 Experiences 💻<h3>
 	
 	|**Period**|**Task**|**Detail**|**Organization**|
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 	|2022.07~2023.06|캡스톤 디자인|PilotNet을 활용한 자율주행 연구|한동대 CGV LAB|
 	|2023.08.08~2024.01.25|KT AIVLE SCHOOL 4기|AI 개발자 트랙 수료|KT|
 	|2024.01.30~2024.02.01|빅데이터 AWS 캠프|Cloud 기반 AI 기술 활용, 교육 및 해커톤 진행|경기과기대 빅데이터혁신융합대학산업단|
+</div>
 <br>
 
 <div align=center>
