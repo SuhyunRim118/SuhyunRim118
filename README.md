@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 <hr>
 
 <div align=center>
-	<h3>🎓 Handong Global University 🎓</h3>
+	<h3>✌️ About Me ✌️</h3>
+	<h5>Graduated Handong Global University with a degree in Computer Science</h5>
 </div>
 <br>
 
 <div align=center>
-## 💻 Experiences
+<h3>💻 Experiences 💻<h3>
 
 |**Period**|**Task**|**Detail**|**Organization**|
 |:---:|:---:|:---:|:---:|
