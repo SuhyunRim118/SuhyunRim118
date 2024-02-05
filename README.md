@@ -27,6 +27,21 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
+## 💻 Experiences
+
+|**Period**|**Task**|**Detail**|**Organization**|
+|:---:|:---:|:---:|:---:|
+|2022.01.03~2022.01.28|웹서비스 프로젝트 (Spring)|스프링 프레임워크를 활용한 웹 사이트 구현 : 마켓컬리 미러링|한동대 SW중심대학|
+|2021.10~2022.06|메타몽 첫 프로젝트|유니티를 이용한 메타버스 전시회 구현|한동대 메타버스 학회 '메타몽'|
+|2022.07.11~2022.07.13|Intro to Pytorch Camp|파이토치 기초 교육|한동대 SW중심대학|
+|2022.09.13~2022.12.16|파이썬 튜터링|파이썬 프로그래밍 튜터|한동대 진로개발시스템|
+|2022.07~2023.06|캡스톤 디자인|PilotNet을 활용한 자율주행 연구|한동대 CGV LAB|
+|2023.08.08~2024.01.25|KT AIVLE SCHOOL 4기|AI 개발자 트랙 수료|KT|
+|2024.01.30~2024.02.01|빅데이터 AWS 캠프|Cloud 기반 AI 기술 활용, 교육 및 해커톤 진행|경기과기대 빅데이터혁신융합대학산업단|
+</div>
+<br>
+
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
