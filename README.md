@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ## ✌️ About Me
-<h3> 🎓 Graduated Handong Global University with a degree in Computer Science </h3>
+<h3> Graduated 🎓Handong Global University🎓 with a degree in Computer Science </h3>
 <br>
 
 ## 📌 Experiences
