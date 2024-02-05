@@ -55,6 +55,14 @@ Here are some ideas to get you started:
 |2024.02.01|빅데이터 AWS 캠프 해커톤 대상|'소소가족' : 하루에 한 번, 질문에 답하며 가족 간 소소한 행복을 찾아가는 서비스|경기과기대 빅데이터혁신융합대학산업단|
 <br>
 
+## ⚡ 자격증
+
++ SQLD
++ AICE Associate
++ TOEIC
++ TOEIC Speaking AL
+<br>
+
 ## 📚 Tech Stack
 <p>✨ Platforms & Languages</p>
 
