@@ -19,15 +19,12 @@ Here are some ideas to get you started:
 	<img class="img" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhyunRim118&count_bg=%23FFC155&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false" />
 </div>
 
-<hr>
+## ✌️ About Me
+<h3> Graduated Handong Global University with a degree in Computer Science </h3>
 
-<div align=center>
-	<h3>✌️ About Me ✌️</h3>
-	<h4>Graduated Handong Global University with a degree in Computer Science</h4>
-</div>
 <br>
 
-## 💻 Experiences 💻
+## 💻 Experiences
 	
 |**Period**|**Task**|**Detail**|**Organization**|
 |:---:|:---:|:---:|:---:|
