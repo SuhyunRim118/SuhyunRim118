@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 |2024.02.01|빅데이터 AWS 캠프 해커톤 대상|'소소가족' : 하루에 한 번, 질문에 답하며 가족 간 소소한 행복을 찾아가는 서비스|경기과기대 빅데이터혁신융합대학산업단|
 <br>
 
-## ⚡ 자격증
+## ⚡ Certificates
 
 + SQLD
 + AICE Associate
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ## 📚 Tech Stack
 <p>✨ Platforms & Languages</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
 <br>
 
 <p>🛠 Tools</p>
