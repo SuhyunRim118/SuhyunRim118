@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 ## ⚡ Certificates
 
 + SQLD
++ ADsP
 + AICE Associate
 + TOEIC
 + TOEIC Speaking AL
