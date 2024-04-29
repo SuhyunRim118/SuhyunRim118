@@ -84,4 +84,4 @@ Here are some ideas to get you started:
 
 ## BAEKJOON
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=esther118)](https://solved.ac/esther118/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=estherr118)](https://solved.ac/estherr118/)
