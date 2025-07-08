@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFC155&fontColor=FFFFFF&height=150&section=header&text=Suhyun%20Github%20💡&fontSize=60&&animation=twinkling)
 
 ## ✌️ About Me
-<h3> Master of Science in Artificial Intelligence, Kyungpook National University, Present </h3>
-<h3> Bachelor of Science in Artificial Intelligence, Computer Science and Engineering, Handong Global University, Graduated in 2024 </h3>
+<h4> Master of Science in Artificial Intelligence, Kyungpook National University, Present </h4>
+<h4> Bachelor of Science in Artificial Intelligence, Computer Science and Engineering, Handong Global University, Graduated in 2024 </h4>
 <br>
 
 ## 📌 Experiences
